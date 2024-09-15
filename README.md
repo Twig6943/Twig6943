@@ -1,6 +1,6 @@
 <h1 align="center">Insert cool ass text here 🔥🔥🔥 
 
-[So skibidii 🚽✨](https://en.wikipedia.org/wiki/Skibidi_Toilet)
+[So skibidi 🚽✨](https://en.wikipedia.org/wiki/Skibidi_Toilet)
 
 <img src="https://media.tenor.com/YzseE_-j48QAAAAM/skibidi-toilet.gif" alt="Affinity on Linux" width="250"/>
 
