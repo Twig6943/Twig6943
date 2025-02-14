@@ -1,4 +1,2 @@
-<p align="center">
-  <a href="https://github.com/twig6943"><img src="https://github-readme-stats.vercel.app/api?username=twig6943&hide_border=true&show_icons=true" alt="twig6943's github stats"></a>
-</p>
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Twig6943&show_icons=true&theme=transparent&hide_border=true" alt="twig's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twig6943&show_icons=true&theme=transparent&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
