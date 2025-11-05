@@ -1,5 +1,3 @@
-## 📊 My GitHub Stats
-
 <p align="center">
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Twig6943&show_icons=true&theme=transparent&hide_border=true" />
